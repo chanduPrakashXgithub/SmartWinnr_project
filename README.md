@@ -343,23 +343,29 @@ concurrently "cd server && npm run dev" "cd client && npm run dev"
 
 ## 📸 Screenshots
 
-### Login Page
-![alt text](image.png)
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
 
-### Register Page
-![Register Page](https://via.placeholder.com/400x300?text=Register+Page)
+---
 
-### Chat Interface - Desktop
-![Chat Desktop](https://via.placeholder.com/800x500?text=Chat+Interface+-+Desktop)
+### 📝 Register Page
+![Register Page](screenshots/register.png)
 
-### Chat Interface - Mobile
-![Chat Mobile](https://via.placeholder.com/300x600?text=Chat+Interface+-+Mobile)
+---
 
-### Group Chat
-![Group Chat](https://via.placeholder.com/800x500?text=Group+Chat)
+### 💻 Chat Interface (Desktop)
+![Chat Desktop](screenshots/chat-desktop.png)
 
-### New Chat Modal
-![New Chat Modal](https://via.placeholder.com/400x400?text=New+Chat+Modal)
+---
+
+### 📎 Sending Media in Chat
+![Sending Media](screenshots/chatting_sending_media.png)
+
+---
+
+### 👥 Group Chat
+![Group Chat](screenshots/group-chat.png)
+
 
 ## 🧪 Testing
 
