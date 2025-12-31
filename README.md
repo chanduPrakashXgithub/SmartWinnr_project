@@ -344,7 +344,7 @@ concurrently "cd server && npm run dev" "cd client && npm run dev"
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](https://via.placeholder.com/400x300?text=Login+Page)
+![alt text](image.png)
 
 ### Register Page
 ![Register Page](https://via.placeholder.com/400x300?text=Register+Page)
